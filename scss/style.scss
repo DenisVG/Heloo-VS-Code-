@@ -28,8 +28,7 @@ body {
 
 // Новые классы в новой ветке
 .block {
-}
-.block_item {
-}
-.block_item__new {
+	&_item {
+		font-size: 50px;
+	}
 }
